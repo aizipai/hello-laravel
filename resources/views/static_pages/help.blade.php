@@ -1,9 +1,7 @@
-@extends('static_pages.layout')
+@extends('layouts.default')
 
-@section('title')
-      帮助
-    @stop
+@section('title','帮助')
 
 @section('content')
-    帮助
+    <h1>帮助</h1>
 @stop

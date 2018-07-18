@@ -3,5 +3,5 @@
 @section('title','关于')
 
 @section('content')
-    关于
+    注册
 @stop
